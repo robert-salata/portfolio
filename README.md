@@ -24,4 +24,4 @@ An university team project: Third Person Shooter proof of concept, created in Un
 
 A simple mobile application I created for university classes. It turned out simple and enjoyable. Compilable sources are available in repository:
 
-[Sources for Android Studio](https://github.com/boberrs/Tetris)
+[Sources of Android Studio project](https://github.com/boberrs/Tetris)
