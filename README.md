@@ -8,7 +8,7 @@ My main individual project which I'm working on for about 4 years. It's a game t
 # Squirrel-Math
 ![Squirrel-Math](images/Squirrel-Math.png)
 
-An extensive project I'm working on in collaboration with my friend, @Creestoph. It aims to be an educational platform teaching mathematics, enhanced by interactive software and rich visuals. Primary foundation of the website is to lead an user through the whole  process of math education in a clear, ordered manner, starting from the very basic concepts like natural numers, and ending on integration, complex analysis or even further. I'm responsible for all the contents of website, graphic design and some of the scripts. The website uses Vue.js framework.
+An extensive project I'm working on in collaboration with my friend, [Creestoph](https://github.com/Creestoph/). It aims to be an educational platform teaching mathematics, enhanced by interactive software and rich visuals. Primary foundation of the website is to lead an user through the whole  process of math education in a clear, ordered manner, starting from the very basic concepts like natural numers, and ending on integration, complex analysis or even further. I'm responsible for all the contents of website, graphic design and some of the scripts. The website uses Vue.js framework.
 
 [Visit Squirrel-Math](https://squirrel-math.firebaseapp.com/)
 
