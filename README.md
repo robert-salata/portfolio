@@ -8,14 +8,14 @@ My main individual project which I'm working on for about 4 years. It's a game t
 # Squirrel-Math
 ![Squirrel-Math](images/Squirrel-Math.png)
 
-An extensive project I'm working on in collaboration with my friend, [Creestoph](https://github.com/Creestoph/). It aims to be an educational platform teaching mathematics, enhanced by interactive software and rich visuals. Primary foundation of the website is to lead an user through the whole  process of math education in a clear, ordered manner, starting from the very basic concepts like natural numers, and ending on integration, complex analysis or even further. It's written in Polish, but planned to be translated into other languages in the future. I'm responsible for all the contents of website, graphic design and some of the scripts. The website uses Vue.js framework.
+An extensive project I'm working on in collaboration with my friend, [Creestoph](https://github.com/Creestoph/). It aims to be an educational platform teaching mathematics, enhanced by interactive software and rich visuals. Primary foundation of the website is to lead an user through the whole  process of math education in a clear, ordered manner, starting from the very basic concepts like natural numbers, and ending on integration, complex analysis or even further. It's written in Polish, but planned to be translated into other languages in the future. I'm responsible for all the contents of website, graphic design and some of the scripts. The website uses Vue.js framework.
 
 [Visit Squirrel-Math](https://squirrel-math.firebaseapp.com/)
 
 # Crystal Reign
 ![Crystal Reign](images/Crystal-Reign.png)
 
-An university team project: Third Person Shooter proof of concept, created in Unity 3D (C#) and Blender. The goal is to survive and defeat as many enemies as possible. The game implements mechanics of environment destruction and allows partial control of resulting debris. I'm responsible for all the modelling, scene design and partially for movement and destruction mechanics.
+A team project from university: Third Person Shooter proof of concept, created in Unity 3D (C#) and Blender. The goal is to survive and defeat as many enemies as possible. The game implements mechanics of environment destruction and allows partial control of resulting debris. I'm responsible for all the modelling, scene design and partially for movement and destruction mechanics.
 
 [More...](https://github.com/MonikaTworek/Crystal-Reign)
 
