@@ -19,6 +19,10 @@ A team project from university: Third Person Shooter proof of concept, created i
 
 [More...](https://github.com/MonikaTworek/Crystal-Reign)
 
+# Inter4D
+BSc thesis implementation: desktop application for 4D geometry visualisation. It helps you understand four-dimensional space using projections and intersections of four-dimensional shapes in different orientations and perspective. The application contains a set of predefined 4D shapes, involving [regular polytopes](https://en.wikipedia.org/wiki/Regular_polytope), solids of revolution and demo concave geometry, as well as simple 3D shapes for anology. It's written in C++, WinAPI and DirectX 11 engine.
+[More...](https://github.com/robert-salata/Inter4D)
+
 # Tetris
 ![Tetris](images/Tetris.png)
 
